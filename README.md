@@ -24,4 +24,4 @@ FASTQ → Alignment → BAM → Variant Calling → VCF
 - results/ : output files
 
 Author
-Sohana Najrin
+*Sohana Najrin*
